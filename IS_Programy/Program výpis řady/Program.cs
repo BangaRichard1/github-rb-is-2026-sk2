@@ -50,6 +50,23 @@ while(again.ToLower() == "a" )
         Console.Write("Diference musí být kladné celé číslo! Zadejte diferenci znovu (kladné celé číslo): ");
     }
 
+    if (first <= last)
+    {
+        int current <= first;
+        while (current <= last)
+        {
+            Console.WriteLine(current);
+            current += step;
+        }
+    }
+
+    else
+    {
+        Console.WriteLine("nelze vypsat");
+        Console.WriteLine("první je větší než poslední");
+        Console.WriteLine("program spustí pouze řadu která je větší než první číslo a menší než poslední číslo");
+    }
+    
 
     // Dotaz směrem k uživateli na opakování
     Console.WriteLine();
