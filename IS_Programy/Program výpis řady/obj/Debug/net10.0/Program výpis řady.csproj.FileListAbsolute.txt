@@ -1,0 +1,15 @@
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\bin\Debug\net10.0\Program výpis řady.exe
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\bin\Debug\net10.0\Program výpis řady.deps.json
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\bin\Debug\net10.0\Program výpis řady.runtimeconfig.json
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\bin\Debug\net10.0\Program výpis řady.dll
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\bin\Debug\net10.0\Program výpis řady.pdb
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.AssemblyInfoInputs.cache
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.AssemblyInfo.cs
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.csproj.CoreCompileInputs.cache
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.sourcelink.json
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.dll
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\refint\Program výpis řady.dll
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.pdb
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\Program výpis řady.genruntimeconfig.cache
+C:\Users\Richard\aaa\github-rb-is-2026-sk2\IS_Programy\Program výpis řady\obj\Debug\net10.0\ref\Program výpis řady.dll

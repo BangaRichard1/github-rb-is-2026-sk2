@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Program výpis řady/1.0.0": {
+        "runtime": {
+          "Program výpis řady.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program výpis řady/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

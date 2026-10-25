@@ -1,4 +1,4 @@
-// jednořádkový 
+﻿// jednořádkový 
 
 /* 
 Toto je
