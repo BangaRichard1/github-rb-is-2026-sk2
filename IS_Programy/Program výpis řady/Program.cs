@@ -54,10 +54,6 @@ while(again.ToLower() == "a" )
     // Rekapitulace zadaných hodnot
     Console.WriteLine();
     Console.WriteLine("==================================");
-    // Výpis zadaných hodnot pod sebou
-    // Console.WriteLine($"První číslo: {first}");
-    // Console.WriteLine($"Poslední číslo: {last}");
-    // Console.WriteLine($"Diference (krok): {step}");
     
     // Výpis zadaných hodnot do jednoho řádku
     Console.WriteLine($"První číslo: {first}; Poslední číslo: {last}; Diference (krok): {step}");
@@ -73,20 +69,15 @@ while(again.ToLower() == "a" )
         while(current <= last) {
             // Čísla řady vypsaná pod sebou
             Console.WriteLine(current);
-            
-            // Čísla řady vypsaná vedle sebe
-            // Console.Write($"{current}; ");
-            
-            // current = current + step;
-            // předchozí řádek lze napsat stručněji
-            current += step;
+
+            current = current + step;
         }
     }
     else
     {
         Console.WriteLine("Řadu nelze vypsat!");
         Console.WriteLine("První číslo je větší než poslední.");
-        Console.WriteLine("Tento program umí vypsat pouze vzestupnou řadu (od menšího k většímu)");
+        Console.WriteLine("program dokáže vypsat pouze vzestupnou řadu (od menšího k většímu)");
     }
 
     // Dotaz směrem k uživateli na opakování
